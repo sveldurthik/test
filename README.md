@@ -1,5 +1,4 @@
 # test
 just for testing purpose
-
-
-here is update in git
+<<<<<<< .mine
+here is update in git=======>>>>>>> .theirs
